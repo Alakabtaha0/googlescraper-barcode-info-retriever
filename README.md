@@ -1,0 +1,1 @@
+# googlescraper-barcode-info-retriever
